@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "name": "shelly1",
+            "baseUrl": "http://localhost:3030"
+        },
+        {
+            "name": "shelly2",
+            "baseUrl": "http://localhost:3033"
+        }
+    ]
+}
